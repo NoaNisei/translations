@@ -34,8 +34,8 @@
                 "toy" : "Jouet",
                 "pet" : "Compagnon",
                 "music" : "Musique",
-                "wrap" : "Emballage",
-                "bundle" : "Paquet",
+                "wrap" : "Revêtement",
+                "bundle" : "Pack",
                 "misc" : "Autres"
             },
             "rarity" : {
